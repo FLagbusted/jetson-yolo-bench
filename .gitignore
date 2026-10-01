@@ -1,0 +1,6 @@
+*.pt
+*.engine
+*.onnx
+*.cache
+runs/
+datasets/
